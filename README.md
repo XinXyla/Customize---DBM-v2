@@ -4,8 +4,10 @@
 # CUSTOMIZE - Versão 0.1
 <br>
 # Recursos:
-Troca imagens de fundo do DBM (Auto ajustavél)<br>
-Buscador de comandos e eventos<br>
-Buscador de actions dentro dos comandos e eventos<br>
 Marcador de comandos, eventos e ações<br>
+Buscador de comandos<br>
+Buscador de eventos<br>
+Buscador de actions dos comandos<br>
+Buscador de actions dos eventos<br>
+Troca imagens de fundo do DBM (Auto ajustavél)<br>
 10 Bloco de notas com salvamento automático<br><br>
