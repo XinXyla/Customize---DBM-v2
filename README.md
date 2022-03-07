@@ -5,7 +5,7 @@
 <br>
 Descompacte para dentro da pasta "Steam\steamapps\common\Discord Bot Maker\resources\app\html"
 <br>
-# Recursos:
+# Recursos
 <br>
 Marcador de comandos, eventos e ações<br>
 Buscador de comandos<br>
