@@ -3,7 +3,7 @@
 
 # CUSTOMIZE - Versão 0.1
 <br>
-# Recursos:
+# Recursos:<br>
 Marcador de comandos, eventos e ações<br>
 Buscador de comandos<br>
 Buscador de eventos<br>
