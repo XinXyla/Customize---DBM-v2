@@ -3,7 +3,7 @@
 
 # CUSTOMIZE - Versão 0.1
 <br><br>
-Coloque dentro da pasta "Steam\steamapps\common\Discord Bot Maker\resources\app\html"
+Descompacte para dentro da pasta "Steam\steamapps\common\Discord Bot Maker\resources\app\html"
 <br>
 # Recursos:
 <br>
