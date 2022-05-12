@@ -16,3 +16,5 @@ Buscador de actions dos comandos<br>
 Buscador de actions dos eventos<br>
 Troca imagens de fundo do DBM (Auto ajustavél)<br>
 10 Bloco de notas com salvamento automático<br><br>
+
+Servidor do DBM Brasil: https://discord.gg/KfrffKXxbb
