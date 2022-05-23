@@ -6,6 +6,5 @@
 Descompacte para dentro da pasta "Steam\steamapps\common\Discord Bot Maker\resources\app\html"
 <br><br>
 
-Descompacte para dentro da pasta "Steam\steamapps\common\Discord Bot Maker\resources\app\html"
 
 Servidor do DBM Brazil: https://discord.gg/KfrffKXxbb
