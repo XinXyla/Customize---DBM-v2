@@ -1,12 +1,15 @@
 ![Imagem2](https://user-images.githubusercontent.com/43226244/131952818-12cb8eb1-0337-40e0-a1c8-0cdb3ee3cebb.png)
 # Discord Bot Maker v2 - MODS - BRASIL
 
-# CUSTOMIZE 2 - Versão 0.3
+# CUSTOMIZE 2 - Versão 0.4
 <br>
 Descompacte para dentro da pasta "Steam\steamapps\common\Discord Bot Maker\resources\app\html"
 <br><br>
-É recomendado que após a configuração deixe o arquivo "config_customizev03.json" da pasta "Steam\steamapps\common\Discord Bot Maker" salvo em algum lugar, pois ainda estou trabalhando nos bugs, esse arquivo as vezes está corrompendo na inicialização do DBM.
-<br><br>
+
+Versão 0.4
+Adicionado sistema de backup do customize e também o automatico a cada 60 segundos
+Adicionado sistema de restauração do customize
+Adicionado todos os nomes dos icons das pastas
 
 Versão 0.3<br>
 Quando for alterada a versão será gerada uma nova "config_customize" para evitar erros<br>
