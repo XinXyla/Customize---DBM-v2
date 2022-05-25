@@ -6,11 +6,11 @@
 Descompacte para dentro da pasta "Steam\steamapps\common\Discord Bot Maker\resources\app\html"
 <br><br>
 
-Versão 0.4
-Adicionado sistema de backup do customize e também o automatico a cada 60 segundos
-Adicionado sistema de restauração do customize
-Adicionado todos os nomes dos icons das pastas
-
+Versão 0.4<br>
+Adicionado sistema de backup do customize e também o automatico a cada 60 segundos<br>
+Adicionado sistema de restauração do customize<br>
+Adicionado todos os nomes dos icons das pastas<br>
+<br>
 Versão 0.3<br>
 Quando for alterada a versão será gerada uma nova "config_customize" para evitar erros<br>
 Correção no sistema de carregamento<br>
