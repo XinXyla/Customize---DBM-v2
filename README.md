@@ -24,8 +24,7 @@ Adicionado opção para alterar [Barra de rolagem > Fundo, borda, barra, barra s
 
 Servidor do DBM Brazil: https://discord.gg/KfrffKXxbb
 
-![4](https://user-images.githubusercontent.com/43226244/169957225-dffd0d5e-6e86-4242-81a6-153384ab94cf.png)
+![4](https://user-images.githubusercontent.com/43226244/170382578-fd8b9921-f531-4115-b416-5ed118462a6c.png)
 ![3](https://user-images.githubusercontent.com/43226244/169957228-7253bf5d-8fa5-45ec-be31-edd6882ec522.png)
 ![2](https://user-images.githubusercontent.com/43226244/169957230-7b937c9b-f3ee-4332-b188-ad74ac09afe5.png)
 ![1](https://user-images.githubusercontent.com/43226244/169957232-23806d50-71a8-4ab8-acc5-655fdda2c8ce.png)
-
