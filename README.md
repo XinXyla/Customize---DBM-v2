@@ -7,7 +7,7 @@ Descompacte para dentro da pasta "Steam\steamapps\common\Discord Bot Maker\resou
 <br><br>
 
 Versão 0.4<br>
-Adicionado sistema de backup do customize e também o automatico a cada 60 segundos<br>
+Adicionado sistema de backup do customize e também o automatico a cada 180 segundos<br>
 Adicionado sistema de restauração do customize<br>
 Adicionado todos os nomes dos icons das pastas<br>
 <br>
