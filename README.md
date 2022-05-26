@@ -3,7 +3,7 @@
 
 # CUSTOMIZE 2 - Versão 0.4
 <br>
-Descompacte para dentro da pasta "Steam\steamapps\common\Discord Bot Maker\resources\app\html"
+Descompacte para dentro da pasta principal do DBM "Steam\steamapps\common\Discord Bot Maker"
 <br><br>
 
 Versão 0.4<br>
