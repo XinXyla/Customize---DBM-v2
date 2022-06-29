@@ -1,11 +1,17 @@
 ![Imagem2](https://user-images.githubusercontent.com/43226244/131952818-12cb8eb1-0337-40e0-a1c8-0cdb3ee3cebb.png)
 # Discord Bot Maker v2 - MODS - BRASIL
 
-# CUSTOMIZE 2 - Versão 0.4
+# CUSTOMIZE 2 - Versão 0.5
 <br>
 Descompacte para dentro da pasta principal do DBM "Steam\steamapps\common\Discord Bot Maker"
 <br><br>
 
+Versão 0.5<br>
+Adicionado opção para alterar [Botões > Fundo Hover, texto Hover]<br>
+Adicionado opção para alterar [Janela de ações > Fundo da Guia, Imagem do fundo, Texto, Fundo dos títulos, Fundo das caixas, Texto das caixas, Borda das caixas]<br>
+Correção no layout dos botões, agora todos os botões são customizados<br>
+Correção de Bugs<br>
+<br>
 Versão 0.4<br>
 Correção na inicialização da primeira vez que abre o customize
 Adicionado sistema de backup do customize e também o automatico a cada 180 segundos<br>
