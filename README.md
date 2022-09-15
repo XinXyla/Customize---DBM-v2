@@ -1,11 +1,18 @@
 ![Imagem2](https://user-images.githubusercontent.com/43226244/131952818-12cb8eb1-0337-40e0-a1c8-0cdb3ee3cebb.png)
 # Discord Bot Maker v2 - MODS - BRASIL
 
-# CUSTOMIZE 2 - Versão 0.5
+# CUSTOMIZE 2 - Versão 0.6
 <br>
 Descompacte para dentro da pasta principal do DBM "Steam\steamapps\common\Discord Bot Maker"
 <br><br>
 
+Versão 0.6<br>
+Adicionado opção para ocultar e exibir as configurações do comando<br>
+Adicionado opção para ocultar e exibir as configurações do evento<br>
+Adicionado botão para salvar o projeto no Menu<br>
+Ajuste no redimencionamento de altura das guias Notas e Customizar<br>
+Ajuste no redimencionamento da tabela de Icones presente na Pasta<br>
+<br>
 Versão 0.5<br>
 Adicionado opção para alterar [Botões > Fundo Hover, texto Hover]<br>
 Adicionado opção para alterar [Janela de ações > Fundo da Guia, Imagem do fundo, Texto, Fundo dos títulos, Fundo das caixas, Texto das caixas, Borda das caixas]<br>
