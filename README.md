@@ -1,6 +1,6 @@
 ![dbmmodsbr](https://user-images.githubusercontent.com/43226244/227053955-6ac7a158-7af6-4cfb-b5dc-d5baba80928c.png)
 
-# Discord Bot Maker v2 - MODS - BRASIL
+# Discord Bot Maker v2 - ADDONS - BRASIL
 
 # CUSTOMIZE 2 - Versão 0.7
 <br>
