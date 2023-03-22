@@ -7,7 +7,7 @@ Descompacte para dentro da pasta principal do DBM "Steam\steamapps\common\Discor
 <br><br>
 
 Versão 0.7<br>
-Adicionado recurso para baixar e atualizar as actions e eventos do DBM MODS BRAZILa<br>
+Adicionado recurso para baixar e atualizar as actions e eventos do DBM MODS BRAZIL<br>
 Adicionado recurso para alterar a animação ao salvar o projetoa<br>
 Adicionado opção para ocultar ou exibir os Filtros & Recolhimentosa<br>
 Adicionado opção para ocultar ou exibir os botões do Marcador & Salvar do menua<br>
