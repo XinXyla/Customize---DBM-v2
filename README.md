@@ -8,21 +8,21 @@ Descompacte para dentro da pasta principal do DBM "Steam\steamapps\common\Discor
 
 Versão 0.7<br>
 Adicionado recurso para baixar e atualizar as actions e eventos do DBM MODS BRAZIL<br>
-Adicionado recurso para alterar a animação ao salvar o projetoa<br>
-Adicionado opção para ocultar ou exibir os Filtros & Recolhimentosa<br>
-Adicionado opção para ocultar ou exibir os botões do Marcador & Salvar do menua<br>
-Adicionado opção para ocultar ou exibir a Guia de Notas do menua<br>
-Adicionado opção para alterar [TABs > Fundo, Fundo Hover, Borda, Fundo do Menu, Fundo do Menu Ativo]a<br>
-Removido o bloco suspenso movél onde ficava os filtros e o marcadora<br>
-Os filtros foram movidos para baixo dos seletoresa<br>
-O marcador agora poderá ser ativado usando o atalho de teclado "Ctrl+F" e "ESC" para fecha-loa<br>
-As tabelas de icones foram transformadas em um bloco suspenso que é aberto pelo botão "Mostrar icones"a<br>
-Adicionado sistema de filtro para as tabelas de iconesa<br>
-Adicionado tradução em português nas tabelas de iconesa<br>
-Ajuste no redimencionamento de altura e largura das guias Comandos e Eventosa<br>
-Agora o programa irá abrir em uma dimensão maiora<br>
-O Fundo das actions agora será exibido também na Raw Dataa<br>
-Correções de errosa<br>
+Adicionado recurso para alterar a animação ao salvar o projeto<br>
+Adicionado opção para ocultar ou exibir os Filtros & Recolhimentos<br>
+Adicionado opção para ocultar ou exibir os botões do Marcador & Salvar do menu<br>
+Adicionado opção para ocultar ou exibir a Guia de Notas do menu<br>
+Adicionado opção para alterar [TABs > Fundo, Fundo Hover, Borda, Fundo do Menu, Fundo do Menu Ativo]<br>
+Removido o bloco suspenso movél onde ficava os filtros e o marcador<br>
+Os filtros foram movidos para baixo dos seletores<br>
+O marcador agora poderá ser ativado usando o atalho de teclado "Ctrl+F" e "ESC" para fecha-lo<br>
+As tabelas de icones foram transformadas em um bloco suspenso que é aberto pelo botão "Mostrar icones"<br>
+Adicionado sistema de filtro para as tabelas de icones<br>
+Adicionado tradução em português nas tabelas de icones<br>
+Ajuste no redimencionamento de altura e largura das guias Comandos e Eventos<br>
+Agora o programa irá abrir em uma dimensão maior<br>
+O Fundo das actions agora será exibido também na Raw Data<br>
+Correções de erros (O programa irá abrir mais rapidamente e travará menos)<br>
 
 Versão 0.6<br>
 Adicionado opção para ocultar e exibir as configurações do comando<br>
