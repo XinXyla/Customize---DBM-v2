@@ -2,10 +2,17 @@
 
 # Discord Bot Maker v2 - ADDONS - BRASIL
 
-# CUSTOMIZE 2 - Versão 0.7
+# CUSTOMIZE 2 - Versão 0.8
 <br>
 Descompacte para dentro da pasta principal do DBM "Steam\steamapps\common\Discord Bot Maker"
 <br><br>
+
+Versão 0.8<br>
+Correção na instalação inicial do customize<br>
+Adicionado recurso para fazer backup dos commands, events e settings e limitar a quantidade máxima de pastas ao salvar o projeto<br>
+Adicionado opção para salvar outros projetos do customize pelo nome e carrega-los<br>
+Adicionado botão para abrir a pasta de customizes<br>
+Adicionado botão para ver todos os customizes<br>
 
 Versão 0.7<br>
 Adicionado recurso para baixar e atualizar as actions e eventos do DBM MODS BRAZIL<br>
