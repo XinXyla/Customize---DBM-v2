@@ -8,6 +8,18 @@
 Descompacte para dentro da pasta principal do DBM "Steam\steamapps\common\Discord Bot Maker"
 <br><br>
 
+Versão 0.9<br>
+Adicionado opção para alterar [Janelas de ações > Fundo da caixa de seleção
+, Fundo da caixa de seleção ativa, Texto da caixa de seleção, ✔ da caixa de seleção, Borda da caixa de seleção, Borda do ✔ da caixa de seleção]<br>
+Adicionado opção para alterar [Corpo > Fundo da caixa suspensa, Fundo hover da caixa suspensa, Texto da caixa suspensa, Texto da caixa suspensa, Texto ao passar o mouse na caixa suspensa, Borda da caixa suspensa, Borda ao passar o mouse na caixa de suspensa]<br>
+Adicionado opção para alterar [Seletores de Comandos, Eventos e Ações > Fundo ao passar o mouse, Borda ao passar o mouse, Texto ao passar o mouse]<br>
+Adicionado opção para ocultar ou exibir os botões Customize<br>
+Adicionado recurso para dar um nome para as 10 notas<br>
+A lista de customizes agora será sempre exibida<br>
+Adicionado recurso para customizar dentro das Janelas de Ações<br>
+Os códigos foram polidos para melhor eficiência<br>
+
+
 Versão 0.8<br>
 Correção na instalação inicial do customize<br>
 Adicionado recurso para fazer backup dos commands, events e settings e limitar a quantidade máxima de pastas ao salvar o projeto<br>
