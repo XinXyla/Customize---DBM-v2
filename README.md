@@ -3,7 +3,7 @@
 
 # Discord Bot Maker v2 - ADDONS - BRASIL
 
-# CUSTOMIZE 2 - Versão 0.8
+# CUSTOMIZE 2 - Versão 0.9
 <br>
 Descompacte para dentro da pasta principal do DBM "Steam\steamapps\common\Discord Bot Maker"
 <br><br>
@@ -77,9 +77,9 @@ Adicionado opção para alterar [Barra de rolagem > Fundo, borda, barra, barra s
 
 Servidor do DBM Brazil: https://discord.gg/KfrffKXxbb
 
-![08](https://user-images.githubusercontent.com/43226244/229942097-6c63fc22-df74-44f0-aed7-b6768aaa936a.png)
+![01](https://github.com/XinXyla/Customize-DBM-v2/assets/43226244/1ac6d133-1100-48a9-8eb2-8a3944bcd41b)
 ![02](https://user-images.githubusercontent.com/43226244/227051757-26f5dc7c-befc-4b9d-bbf5-4b7ddda94a04.png)
-![03](https://user-images.githubusercontent.com/43226244/227051808-c5cfd78e-2449-42c3-85f7-224ca030b8fa.png)
+![02](https://github.com/XinXyla/Customize-DBM-v2/assets/43226244/a179779d-abdb-4884-bc1f-c22f63d7e5af)
 ![04](https://user-images.githubusercontent.com/43226244/227052128-ba925b5b-bda3-4a88-a6b1-ea249b07544f.png)
 
 
